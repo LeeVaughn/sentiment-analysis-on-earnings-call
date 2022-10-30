@@ -12,7 +12,7 @@ Check out [this tutorial](https://youtu.be/kBoe56CfugY) to learn how to build an
 
 * Download project files by running `git clone https://github.com/AssemblyAI/sentiment-analysis-on-earnings-call`
 * Navigate to the project folder
-* Ensure that [Streamlit](https://pypi.org/project/streamlit/) and [Plotly](https://pypi.org/project/plotly/) are installed
+* Ensure that [Streamlit](https://pypi.org/project/streamlit/), [Pandas](https://pypi.org/project/pandas/), and [Plotly](https://pypi.org/project/plotly/) are installed
 * Run the application using the `streamlit run app.py`
 
 ## How it Works
@@ -24,4 +24,5 @@ You can view the results for a file you have submitted to the API with `sentimen
 ## Dependencies
 
 * [Streamlit](https://pypi.org/project/streamlit/) The fastest way to build data apps in Python
+* [Pandas](https://pypi.org/project/pandas/) Powerful data structures for data analysis, time series, and statistics
 * [Plotly](https://pypi.org/project/plotly/) An open-source, interactive data visualization library for Python
